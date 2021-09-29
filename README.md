@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminetress
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back end web development
+- 🌱 I’m currently learning Back end web development and SEO, SEM
 - 💞️ I’m looking to collaborate on Development and SEO..
 - 📫 How to reach me taurauamine@gmail.com
 
